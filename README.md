@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Guilherme!
-- 🌱 I’m currently learning HTML, CSS, JS and NodeJs. 💻😎
+- Hi, I’m Guilherme! 👨🏻‍💻
+- 
+- I’m currently learning HTML, CSS, JS and NodeJs.💻😎
+
+
 - 📫 You can reach me at guilherme.gsantos@sptech.school ✌
 
 <!---

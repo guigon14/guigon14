@@ -8,9 +8,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📫 You can reach me at 
-guilherme.gsantos@sptech.school ✌
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) 
+![Outlook](https://img.shields.io/badge/guilherme.gsantos@sptech.school-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) 
 
 
 <!---
